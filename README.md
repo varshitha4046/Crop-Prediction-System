@@ -1,4 +1,4 @@
-# Prediction System of Crops with Machine Learning
+# Prediction System of Crops with AWS SageMaker, Machine Learning
 ## Overview
 The Prediction System of Crops with Machine Learning aims to assist farmers in identifying the most suitable crop based on soil composition and climatic conditions. By applying machine learning techniques, this project evaluates different crop types and recommends the best option to increase agricultural yield and productivity.
 
